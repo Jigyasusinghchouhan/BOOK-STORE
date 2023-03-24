@@ -67,10 +67,15 @@ One design pattern which has been adopted across a wide range of software develo
 
 The separation of design concerns through the use of mvc exposes a number of possibilities, including the ability to build a number of alternative view components which utilize the same model and controller. In addition, collaborative developments can be approached with more confidence and ease when the various components have been clearly separated. 
 As we mentioned above, j2ee technologies can be combined in order to achieve more effective application designs. In terms of j2ee developments, the mvc design pattern is embodied by the so-called model 2 architecture where java beans are used to represent the model layer, jsp pages for the view and java servlets for the application controller. When a request is sent to a model 2 application, the controller servlet initiates state changes in the model though the instantiation and manipulation of one or more javabeans. At the stage where a response is to be generated, thecontroller servlet selects an appropriate jsp page to supply the view. Figure 1.2 provides a diagrammatic representation of a typical model 2 application. 
+![MVC](https://user-images.githubusercontent.com/52603806/227454142-e9c46dca-da7c-4d9a-a811-65d2c29ec134.png)
+
  
 # MVC MODEL 2 APPLICATION
 
 Although The Typical Model 2 Framework Provides An Effective Means Of Decoupling The Mvc Design Concerns; The Controller Component Can Be Criticised For Having A Lack Of Maintainability. Utilising A Collection Of Servlets To Provide The Application Controller Exposes The Opportunity To Reuse Model And View Components For Different Operations. However, This Carries The Drawback Of Having Replicated Code In Each Servlet For Performing Common Controller Operations. The Repercussion Of Replication, More Pertinent In Larger Developments, Is A Reduced Level Of Maintainability - Where More Components Of The Application Will Be Impacted When A Change Needs To Be Made. 
+
+![image](https://user-images.githubusercontent.com/52603806/227454246-ee6f7198-a4ed-42d3-aa48-b53705961e19.png)
+
 
 # JSP 
 Java Server Pages (Jsp) Is A Java Technology That Helps Software Developers Serve Dynamically Generated Web Pages Based On Html, Xml, Or Other Document Types. Jsp Was Designed To Address The Perception That The Java Programming Environment Didn't Provide Developers With Enough Support For The Web. 
@@ -123,6 +128,7 @@ Manual management of any task is time consuming having lots of errors, which wil
 •	While modifying a record, the person will have to first search the record and then make changes of that particular record in every related register.
 
 
+![image](https://user-images.githubusercontent.com/52603806/227454329-104aea9c-f742-4a92-b70c-c34488485e36.png)
 
  
  # Requirement specification:
@@ -218,72 +224,14 @@ o	Which are take the more time in the manually form.
 
 •	Accuracy: - all the processes provided by the system are accurate thus increase the reliability.
  
+# System design:
+Procedural design:
 
 
+![image](https://user-images.githubusercontent.com/52603806/227454424-7a730735-65e0-4b5d-b690-d29ea052eab9.png)
 
+# Detail data flow diagram (DFD):
 
+![image](https://user-images.githubusercontent.com/52603806/227454575-d59535d3-6b80-46f8-be98-925c82d56110.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-figure – detail dfd for selling and purchasing of books 
-
-
-
-Category bssed search:
-
- 
-Inventory management -:
-
-Adding books to inventory:
-
- 
-Removing books from inventory:
-
-
-
-Figure - removing books from inventory
  
