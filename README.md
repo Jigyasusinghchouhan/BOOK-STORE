@@ -7,7 +7,7 @@ MCA SEM 2 MINI PROJECT
 - GAURAV GABA
 - CHINMAYA GARNAIK
 
-  #Abstract
+  # Abstract
 •	The project report consists of 2 phases. In the first phase, the problem assigned to us has been mentioned. Second phase provides the solution for the same problem along with an insight into the development process involved.
 
 •	Introduction part gives the information regarding online book shopping. It also gives brief introduction about the project under the topic problem definition .it gives a short introduction about bookshop and its operations.
@@ -23,7 +23,7 @@ MCA SEM 2 MINI PROJECT
 
 
 
-   #Introduction:
+   # Introduction:
 
 The online book shopping is to automate all operations in a bookshop. Generally it includes the order processing, stock management and accounts management.
 Before automating a bookshop we have to understand the concept of automation. In automation of any operation we make a system which do work automatically as the respective events occurs, for which it is meant.
@@ -35,13 +35,13 @@ For example any customer want to purchase any book from the shop than first of a
 The System Uses J2ee Environment And Java1.8 As Code Language, Hibernate And Apache Maven As An Extended Frameworks, Back End Side My Sql Database, Development Tool As Eclipse Oxygen, Database Management Tool As Mysql Xampp
 Below There Is Some Explanation About These Terminologies. 
 
-#APACHE TOMCAT SERVER 8.0 
+# APACHE TOMCAT SERVER 8.0 
 
 The Apache Software Foundation Provides Support For The Apache Community Of Open-Source Software Projects. The Apache Projects Are Characterized By A Collaborative, Consensus Based Development Process, An Open And Pragmatic Software License, And A Desire To Create High Quality Software That Leads The Way In Its Field.  
  
 Apache Tomcat Is The Servlet Container That Is Used In The Official Reference Implementation For The Java Servlet And Java Server Pages Technologies. 
 
-#Advantages:--
+# Advantages:--
 
 Performance Optimizations And Reduced Garbage Collection 
 Refactored Application Deplorer, With An Optional Standalone Deplorer Allowing Validation And Compilation Of A Web Application Before Putting It In Production. 
