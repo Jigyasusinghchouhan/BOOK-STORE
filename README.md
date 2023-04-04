@@ -234,4 +234,12 @@ Procedural design:
 
 ![image](https://user-images.githubusercontent.com/52603806/227454575-d59535d3-6b80-46f8-be98-925c82d56110.png)
 
- 
+
+# screenshot of project
+
+# index
+![Screenshot 2023-04-04 090441](https://user-images.githubusercontent.com/52603806/229680890-6a3110de-8230-4e5e-8830-22a294c2f5a9.png)
+# Customer
+![Screenshot 2023-04-04 090631](https://user-images.githubusercontent.com/52603806/229680965-ab7a6454-60a6-4682-aec5-74e9f5c00e12.png)
+# Admin![Screenshot 2023-04-04 090746](https://user-images.githubusercontent.com/52603806/229681088-bb1aa1a3-99b1-41fc-86e5-1a02a29285b8.png)
+
